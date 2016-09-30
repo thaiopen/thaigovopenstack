@@ -11,6 +11,18 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   environment
+   identity
+   image
+   compute
+   network
+   dashboard
+   block_storage
+   share_file
+   object_storage
+   orchestration
+   telemetry
+   database
 
 
 Indices and tables
@@ -19,4 +31,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
